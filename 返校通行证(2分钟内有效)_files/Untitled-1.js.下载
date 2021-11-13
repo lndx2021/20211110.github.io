@@ -2,7 +2,7 @@ var t = new Date();
 h = t.getHours();
 if( h > 7 && h <9 )backcolor="gray"; 
 if( h >=9 && h<10 )backcolor="maroon"; 
-if( h >=10 && h <11 )backcolor="teal"; 
+if( h >=10 && h <11 )backcolor="yellow"; 
 if( h >=11 && h <12 )backcolor="olive"; 
 if( h >=12 && h <13 )backcolor="purple"; 
 if( h >=13 && h <14 )backcolor="gray"; 
