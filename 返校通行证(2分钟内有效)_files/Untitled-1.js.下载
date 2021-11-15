@@ -9,7 +9,7 @@ if( h >=13 && h <14 )backcolor="gray";
 if( h >=14 && h <15 )backcolor="darkblue"; 
 if( h >=15 && h <16 )backcolor="darkgreen"; 
 if( h >=16 && h <17 )backcolor="darkred";
-if( h >=17 && h <18 )backcolor="cyan"; 
+if( h >=17 && h <18 )backcolor="navy"; 
 if( h >=18 && h <19 )backcolor="darkblue";
 if( h >=19 && h <20 )backcolor="darkgreen";
 if( h >=20 && h <21 )backcolor="darkred";
