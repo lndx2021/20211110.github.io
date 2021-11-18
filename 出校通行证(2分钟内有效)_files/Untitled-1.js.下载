@@ -13,6 +13,6 @@ if( h >=17 && h <18 )backcolor="cyan";
 if( h >=18 && h <19 )backcolor="darkblue";
 if( h >=19 && h <20 )backcolor="darkgreen";
 if( h >=20 && h <21 )backcolor="darkred";
-if( h >=21 && h <22 )backcolor="cyan"; 
+if( h >=21 && h <22 )backcolor="sliver"; 
 if( (h >=22 && h<=24) || (h>=0 && h<=6) )backcolor="black";//夜晚黑
 document.getElementById("imgBg").style.background = backcolor;
